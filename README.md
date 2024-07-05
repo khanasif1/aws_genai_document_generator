@@ -1,5 +1,4 @@
-# revantage_aws_ai
-revantage_aws_ai
+# AWS GenAI generate document using bedrock RAG
 
 ***
 
